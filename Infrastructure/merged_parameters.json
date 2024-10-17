@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "databaseAccounts_crc_db_name": {
+      "value": null
+    },
+    "sites_azure_crc_function_name": {
+      "value": null
+    },
+    "serverfarms_ASP_azure_crc_function_ff3d_externalid": {
+      "value": null
+    },
+    "storageAccounts_aimancrc_name": {
+      "value": null
+    }
+  }
+}
